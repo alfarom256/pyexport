@@ -1,0 +1,8 @@
+recurse_directories:
+  - C:\Windows\System32\
+
+flat_directories:
+  - C:\Windows\
+  
+files:
+  - C:\Windows\System32\ntdll.dll
